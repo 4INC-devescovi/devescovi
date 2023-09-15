@@ -10,5 +10,5 @@ package prova;
  * @author santo.annino
  */
 public class Prova {
-    
+    private int c;
 }
